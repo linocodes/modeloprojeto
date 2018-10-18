@@ -8,6 +8,7 @@ npx create-react-app projeto
 npm run eject
 npm install sass-loader node-sass webpack --save-dev
 npm i -g serve
+npm i -g sass 
 
 ## Table of Contents
 

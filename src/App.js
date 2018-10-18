@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <button type="submit" class="btn btn-primary">Submit</button>
         </header>
       </div>
     );
