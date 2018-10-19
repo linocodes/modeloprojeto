@@ -1,0 +1,39 @@
+$theme-colors: (
+   "primary": yellow
+
+);
+
+
+
+@import '~bootstrap/scss/bootstrap';
+
+
+
+h1 {
+    color: green;
+}
+
+
+
+
+.mainWrap {
+    margin-top: 3rem;
+}
+
+.sectionLabel {
+    color: $text-muted;
+    font-weight: bold;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+
+.singleTable {
+    th, td {
+        text-align: left !important;
+    }
+}
+
+.switchCustomClass > :first-child {
+    background-color: #ab199f;
+}
