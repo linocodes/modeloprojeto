@@ -10,7 +10,6 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <h1>testeste</h1>
           <a
             className="App-link"
             href="https://reactjs.org"
@@ -19,7 +18,6 @@ class App extends Component {
           >
             Learn React
           </a>
-          <button type="submit" class="btn btn-primary">Submit</button>
         </header>
       </div>
     );
